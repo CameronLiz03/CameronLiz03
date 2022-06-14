@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CameronLiz03
+- 👋 Hi, I’m Elizabeth Arise
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Fullstack web development
 - 💞️ I’m looking to collaborate on ...
